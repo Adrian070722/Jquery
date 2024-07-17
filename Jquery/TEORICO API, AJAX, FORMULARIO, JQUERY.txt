@@ -1,0 +1,59 @@
+                   FORMULARIOS, API, AJAX JQUERY
+
+
+
+
+
+
+
+
+
+AJAX (Asynchronous JavaScript and XML):
+
+Permite realizar solicitudes HTTP al servidor sin recargar la página web.
+Utiliza JavaScript, XML y XMLHttpRequest para comunicarse con el servidor.
+Ventajas: mayor interactividad, menor tiempo de carga, mejor experiencia de usuario.
+Ejemplo: actualizar el carrito de compras en una tienda online sin recargar la página.
+
+
+
+
+
+
+
+
+
+API (Application Programming Interface):
+
+Conjunto de reglas y protocolos que permiten que dos aplicaciones se comuniquen.
+Define qué datos se pueden intercambiar, en qué formato y qué operaciones se pueden realizar.
+Permite acceder a datos y funcionalidades de terceros.
+Beneficios: acceso a datos valiosos, ahorro de tiempo y dinero, innovación.
+Ejemplo: API de Facebook para acceder a tu perfil y publicaciones.
+
+
+
+
+
+
+
+
+
+Las bibliotecas de JavaScript ofrecen:
+
+Mayor productividad: Ahorran tiempo y esfuerzo al proporcionar código reutilizable.
+Desarrollo simplificado: Ocultan la complejidad y ofrecen interfaces intuitivas.
+Mejor calidad del código: Código confiable, bien probado y escrito siguiendo buenas prácticas.
+Acceso a funcionalidades avanzadas: Implementación de animaciones, gráficos y validaciones complejas.
+Fomento de la colaboración: Facilitan el trabajo en equipo y la comprensión del código.
+Ejemplos de bibliotecas populares: jQuery, React, Angular, Vue.js y Bootstrap.
+
+En general, las bibliotecas de JavaScript te ayudan a escribir código más rápido, mejor y con mayor calidad,
+ permitiéndote crear aplicaciones web más robustas, interactivas y funcionales.
+
+
+
+
+
+
+
